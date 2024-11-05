@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DivideEtImpera</string>
+    <string name="xposed_desc">Pretend you never left</string>
+    <string name="about_module">This module is made by YukiHookAPI. \nLearn more https://github.com/HighCapable/YuKiHookAPI</string>
+</resources>
